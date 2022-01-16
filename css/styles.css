@@ -1,0 +1,102 @@
+.title{
+  background-color:  #FF0000;
+  text-align: center;
+  padding: 100px 50px;
+  font-family:"monserrat";
+  font-weight:bold;
+  font-size: 5rem;
+  color: #fff;
+}
+.heading{
+  font-size: 2.5rem;
+  font-weight: bolder;
+  margin-left: 50px;
+}
+.siz{
+  margin-right : 0;
+  background-color: #FF0000;
+}
+.motive{
+  padding-top: 60px;
+  font-weight: bolder;
+}
+.rot{
+ background-color: #FF0000; 
+}
+.img{
+  height: 400px;
+  width: 250px;
+  position: relative;
+  transform: skewX(25deg);
+  padding-left: 30px;
+}
+.feature{
+  text-align: center;
+  padding: 150px 30px  ;
+  font-size: 2.5rem;
+  font-weight: bolder;
+}
+.testi{
+  background-color:#ff1100e0;
+  text-align:center;
+}
+.desc{
+  padding: 50px 70px ;
+}
+.dogy{
+  padding: 10px 0 100px;
+}
+.symbol{
+  padding-right: 20px;
+}
+.symbol{
+  margin: 5px;
+}
+.icon:hover{
+  color:#ff1100e0;
+}
+.users{
+  padding:200px 0 ;
+}
+.review{
+  padding: 25px;
+}
+.text:hover{
+  color:hsla(4, 100%, 50%, 0.877);
+}
+.cta{
+  text-align: center;
+  padding: 50px 0;
+  background-color:#FF0000 ;
+}
+
+.foot{
+  font-weight: bolder;
+  font-size: 2rem;
+  padding-bottom: 10px;
+}
+.last{
+  text-align:center;
+  font-size:1rem;
+  font-weight: bolder;
+}
+.copyright:hover{
+  color: #fff;
+}
+.copyright{
+  padding-bottom: 10px;
+  font-weight: bolder;
+}
+.dataa{
+  padding: 100px 50px;
+}
+.pet{
+  text-align:center;
+}
+#pricing{
+  padding: 50px;
+  background-color:#FF0000 ;
+}
+.lady{
+  padding-bottom: 30px;
+}
